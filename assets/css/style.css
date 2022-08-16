@@ -945,7 +945,7 @@ p.service_text{
 
 .card:hover .tags .tag {
   background: beige;
-  color: black;
+  color: white;
 }
 
 .card .date {
