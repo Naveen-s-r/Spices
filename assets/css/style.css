@@ -884,7 +884,7 @@ p.service_text{
   align-items: center;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 4rem;
-  padding: 1rem 4rem 1rem 4rem;
+  padding: 1rem 1rem 1rem 1rem;
   margin: 0 auto;
   width: max-content;
 }
@@ -1019,11 +1019,11 @@ p.service_text{
 }
 
 /* MEDIA QUERIES */
-@media screen and (max-width: 1285px) {
+/*@media screen and (max-width: 1285px) {
   .cards-wrapper {
     grid-template-columns: 1fr 1fr;
   }
-}
+}*/
 
 @media screen and (max-width: 900px) {
   .cards-wrapper {
