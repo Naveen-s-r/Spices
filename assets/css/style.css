@@ -972,19 +972,19 @@ p.service_text{
 }
 
 .card:before {
-  background: #ddd;
+  background: linear-gradient(45deg, #6ae032, transparent);
   width: 250%;
   height: 250%;
 }
 
 .card:after {
-  background: white;
+  background: linear-gradient(45deg, #6ae032, transparent);
   width: 200%;
   height: 200%;
 }
 
 .card:hover {
-  color: var(--color);
+  color: white;
   text-decoration: none;
 }
 
