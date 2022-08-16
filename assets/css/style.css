@@ -944,7 +944,7 @@ p.service_text{
 }
 
 .card:hover .tags .tag {
-  background: beige;
+  background: rgba(0, 0, 0, 0.4);
   color: white;
 }
 
